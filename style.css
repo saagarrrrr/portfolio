@@ -93,7 +93,7 @@ header {
     background-color:#26B24C;
     color: white;
     font-weight: 500;
-    border-radius: 30px;
+    border-radius: 35px;
     text-transform: uppercase;
     transition: background 0.3s ease, transform 0.3s ease;
 }
