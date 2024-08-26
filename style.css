@@ -71,10 +71,13 @@ header {
 }
 
 .hero-content {
-    color: rgb(241, 241, 241);
+    color: rgb(255, 255, 255);
     max-width: 700px;
     padding: 20px;
     animation: fadeIn 1.5s ease;
+}
+.hero-content:hover{
+    color: #152905;
 }
 
 .hero-content h1 {
